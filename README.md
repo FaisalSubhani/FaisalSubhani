@@ -20,9 +20,9 @@ Welcome to my Cyber Security journey! 👋 I'm Faisal Subhani, a passionate Cybe
 
 Here are some of the cybersecurity projects I've worked on:
 
-1. [Project 1](link-to-project-1): Short description of project 1.
-2. [Project 2](link-to-project-2): Short description of project 2.
-3. [Project 3](link-to-project-3): Short description of project 3.
+1. [Project 1](link-to-project-1): I will upload projects soon.
+2. [Project 2](link-to-project-2): I will upload projects soon.
+3. [Project 3](link-to-project-3): I will upload projects soon.
 
 Feel free to explore these projects, provide feedback, or collaborate with me!
 
